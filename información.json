@@ -1,5 +1,15 @@
 {
-  "ActivePython": true,
-  "ActiveJava": false,
-  "ActiveC++": false
+  "cursos": {
+    "terminados": {
+      
+    },
+    "en_desarrollo": {
+      "ActivePython": true,
+      "ActiveJava": true,
+      "ActiveC++": true
+    },
+    "futuros_cursos_disponibles": {
+      
+    }
+  }
 }
