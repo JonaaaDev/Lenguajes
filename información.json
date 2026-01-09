@@ -5,8 +5,8 @@
     },
     "en_desarrollo": {
       "ActivePython": true,
-      "ActiveJava": true,
-      "ActiveC++": true
+      "ActiveJava": false,
+      "ActiveC++": false
     },
     "futuros_cursos_disponibles": {
       
