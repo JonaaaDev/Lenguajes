@@ -27,4 +27,30 @@ print(True or False) # la condición es verdadero o falso
 print(False or False) # la condición es falso o falso
 # salida: False
 
-# próximamente el not
+
+# el operador «not» devuelve True al False y False al True
+# not significa no
+# si la condicion es not False la condición es verdadera
+print(not False) # la condición es no falso
+# salida: True
+
+# si la condicion es not True la condición es falsa
+print(not True) # la condición es no verdadero
+# salida: False
+
+
+# operador not y el operador and
+
+print(not False and True) # la condición es verdadero y verdadero
+# salida: True
+
+print(not False and not True) # la condición es verdadera y falso
+# salida: False
+
+# operador not y el operador or
+
+print(not False or True) # la condición es verdadero o falso
+# salida: True
+
+print(not True or False) # la condición es falso y falso
+# salida: False
