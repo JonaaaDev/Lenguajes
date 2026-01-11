@@ -1,5 +1,5 @@
 # entrada
-nombre = input("escribe tu nombre: ").lower().strip().replace(" ", "") # reemplaza un caracter por otro
+txt = input("escribe tu nombre: ").lower().strip().replace(" ", "") # reemplaza un caracter por otro
 
 # la funcion devuelve si es o no es un palindromo
 def es_palindromo(texto): # parametro
@@ -10,4 +10,4 @@ def es_palindromo(texto): # parametro
         print("No es un palindromo")
 
 # llamar a la funcion
-es_palindromo(nombre) # argumento
+es_palindromo(txt) # argumento
