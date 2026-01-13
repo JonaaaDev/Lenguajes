@@ -24,6 +24,9 @@ print("Te llamas", mi_nombre)
 print("Te apellidas", mi_apellido)
 print("Tienes", edad, "años")
 
+# todo junto
+print("Te llamas", mi_nombre, "te apellidas", mi_apellido, "tienes", edad, "años")
+
 print() # salto de linea (no lo tengas en cuenta)
 
 #--------------------------------------
