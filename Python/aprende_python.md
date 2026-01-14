@@ -16,3 +16,64 @@ Objetivo es dominar las siguientes áreas:
     * **CustomTkinter / Tkinter:** Para aplicaciones de escritorio clásicas y estilizadas.
     * **Kivy / BeeWare:** Para el desarrollo de aplicaciones móviles.
 * **🤖 Inteligencia Artificial:** Introducción al **Machine Learning**, análisis de datos y automatización inteligente.
+
+
+```
+Python/
+├── 01_Fundamentos_Basicos/
+│   ├── Variables/
+│   ├── Print/
+│   ├── Operadores/
+│   ├── Condicionales/
+│   ├── For/
+│   ├── Listas/
+│   └── Def/
+├── 02_Fundamentos_Intermedios/
+│   ├── List_Comprehensions/
+│   ├── Lambda_Functions/
+│   ├── Manejo_Excepciones/
+│   ├── Modulos_Paquetes/
+│   └── Pip_Virtualenv/
+├── 03_POO/
+│   ├── Clases_Objetos/
+│   ├── Herencia_Polimorfismo/
+│   ├── Metodos_Especiales/
+│   └── Decoradores_Property/
+├── 04_Estructuras_Avanzadas/
+│   ├── Collections/
+│   ├── Iteradores_Generadores/
+│   ├── Heapq/
+│   └── Bisect/
+├── 05_Manejo_Datos_Archivos/
+│   ├── TXT_Binarios/
+│   ├── CSV/
+│   ├── JSON/
+│   └── SQLite_SQLAlchemy/
+├── 06_Python_Avanzado/
+│   ├── Decoradores_Propios/
+│   ├── Context_Managers/
+│   ├── Metaprogramacion/
+│   └── Introspeccion/
+├── 07_Concurrencia/
+│   ├── Threading/
+│   ├── Multiprocessing/
+│   └── Asyncio/
+├── 08_Testing_Calidad/
+│   ├── Unittest/
+│   ├── Pytest/
+│   ├── Logging/
+│   └── PEP8_Linters/
+├── 09_Frameworks_Web/
+│   ├── FastAPI/
+│   ├── Django/
+│   └── Flask/
+├── 10_Automation_Scripts/
+│   ├── Selenium/
+│   └── PyAutoGUI/
+├── 11_Game_Development/
+│   └── Pygame/
+└── 12_Data_Science/
+    ├── NumPy/
+    ├── Pandas/
+    └── Matplotlib/
+```
