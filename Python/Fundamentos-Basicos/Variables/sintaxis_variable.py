@@ -1,11 +1,15 @@
-# Las variables sirven para almacenar datos la RAM
-# Durante la ejecución 
+# las variables sirven para almacenar datos la RAM durante la ejecucion del programa
+# para asignar un valor a una variable se usa el simbolo «=»
+# el nombre de la variable puede ser lo que quieras
 
-nombre = "Jonathan" #tipo String «str» significa cadena de caracteres
+# guardamos un texto (string) en una variable llamada «nombre»
+nombre = "Jonathan"
 
-edad = 19 #tipo integer «int» significa numero entero
+# guardamos un número (integer) en una variable llamada «puntuacion»
+puntuacion = 100 # recordad que si lo ponemos entre comillas el programa pensara que es un str
 
-salario = 1200.0 #tipo float «float» significa numero con decimal
+# guardamos un decimal (float) en una variable llamada «precio»
+precio = 19.99 
 
-trabajando = False #tipo boolean «bool» significa verdad
-estudiando = True #tipo boolean «bool» significa falso
+# Guardamos un booleano (bool) en una variable llamada «es_valido»
+es_valido = True
