@@ -22,13 +22,19 @@ Objetivo es dominar las siguientes áreas:
 ```
 Python/
 ├── 01_Fundamentos_Basicos/
-│   ├── Variables/
 │   ├── Print/
+│   ├── Metodos_Strings/
+│   ├── Variables/
 │   ├── Operadores/
 │   ├── Condicionales/
+│   ├── Operadores_Logicos/
+│   ├── While/
 │   ├── For/
 │   ├── Listas/
-│   └── Def/
+│   ├── Tuplas/
+│   ├── diccionarios/
+│   ├── Def/
+│   └── POO_BASICO/
 ├── 02_Fundamentos_Intermedios/
 │   ├── List_Comprehensions/
 │   ├── Lambda_Functions/
@@ -78,5 +84,6 @@ Python/
     ├── Pandas/
     └── Matplotlib/
 ```
+
 
 
